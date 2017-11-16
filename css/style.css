@@ -79,7 +79,7 @@ header {
 
 #title {
   color: white;
-  font-family: sans-serif;
+  font-family: open sans;
   font-size: 50px;
 }
 
@@ -93,13 +93,9 @@ header {
 
 #getit {
   background-color: yellow;
-  font-family: system-ui;
-  font-size: 20px;
-  text-align: center;
-  width: 20%;
-  padding:5px 50px 5px 50px;
-  margin-left: 40%;
-
+  font-size: 15px;
+  margin-left: 45%;
+  width: 15%;
 }
 
 section {
@@ -183,7 +179,7 @@ footer {
 
 #ftertitle {
   color: yellow;
-  font-family: sans-serif;
+  font-family: open sans;
   font-size: 50px;
   text-align: center;
   padding: 40px;
